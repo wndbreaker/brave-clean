@@ -1,6 +1,10 @@
 ![Brave Browser](./docs/images/brave.svg)
 
-# Brave Core
+# Brave if it was made to look clean
+
+This project is meant to make Brave look clean, that means no bloat, ads or unnecessary features.
+
+All things from the original README are below.
 
 Brave Core is a set of changes, APIs, and scripts used for customizing Chromium
 to make the Brave browser. Please also check

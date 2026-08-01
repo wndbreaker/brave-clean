@@ -8,6 +8,10 @@ And yes, I know its Chromium but this is just meant to look better and prioritiz
 
 All things from the original README are below.
 
+Also, I really don't know if I'm actually going to complete this or not but I really hope I do.
+
+-----------------------------------------------------------------------------------------------------------
+
 Brave Core is a set of changes, APIs, and scripts used for customizing Chromium
 to make the Brave browser. Please also check
 https://github.com/brave/brave-browser which only holds the issues, releases and

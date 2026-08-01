@@ -1,6 +1,6 @@
 ![Brave Browser](./docs/images/brave.svg)
 
-# Brave if it was made to look clean
+# Brave | Clean Edition ig
 
 This project is meant to make Brave look clean, that means no bloat, ads or unnecessary features.
 

@@ -10,6 +10,8 @@ All things from the original README are below.
 
 Also, I really don't know if I'm actually going to complete this or not but I really hope I do.
 
+Might also do a Firefox version but just for more privacy.
+
 -----------------------------------------------------------------------------------------------------------
 
 Brave Core is a set of changes, APIs, and scripts used for customizing Chromium

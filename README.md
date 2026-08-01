@@ -12,6 +12,8 @@ Also, I really don't know if I'm actually going to complete this or not but I re
 
 Might also do a Firefox version but just for more privacy.
 
+The codename is cringe but its "DeBroaded" cus idk what else to call it tbh.
+
 -----------------------------------------------------------------------------------------------------------
 
 Brave Core is a set of changes, APIs, and scripts used for customizing Chromium

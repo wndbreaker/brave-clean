@@ -4,6 +4,8 @@
 
 This project is meant to make Brave look clean, that means no bloat, ads or unnecessary features.
 
+And yes, I know its Chromium but this is just meant to look better and prioritize privacy.
+
 All things from the original README are below.
 
 Brave Core is a set of changes, APIs, and scripts used for customizing Chromium
